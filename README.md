@@ -2,16 +2,18 @@
 
 ---
 
-[![](https://img.youtube.com/vi/XvZE0PXrbdQ/0.jpg)](https://youtu.be/XvZE0PXrbdQ)
-
-[![](https://img.youtube.com/vi/IDYax_uSdGI/0.jpg)](https://youtu.be/IDYax_uSdGI)
-
-[![](https://img.youtube.com/vi/jqWhr08OxbM/0.jpg)](https://youtu.be/jqWhr08OxbM)
-
-[![](https://img.youtube.com/vi/yFfE93nOQwI/0.jpg)](https://youtu.be/yFfE93nOQwI)
-
-[![](https://img.youtube.com/vi/06Qt-YMzbg8/0.jpg)](https://youtu.be/06Qt-YMzbg8)
-
+<table>
+  <tr>
+    <td><a href="https://youtu.be/XvZE0PXrbdQ"><img src="https://img.youtube.com/vi/XvZE0PXrbdQ/0.jpg" width="240"></a></td>
+    <td><a href="https://youtu.be/IDYax_uSdGI"><img src="https://img.youtube.com/vi/IDYax_uSdGI/0.jpg" width="240"></a></td>
+    <td><a href="https://youtu.be/jqWhr08OxbM"><img src="https://img.youtube.com/vi/jqWhr08OxbM/0.jpg" width="240"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/yFfE93nOQwI"><img src="https://img.youtube.com/vi/yFfE93nOQwI/0.jpg" width="240"></a></td>
+    <td><a href="https://youtu.be/06Qt-YMzbg8"><img src="https://img.youtube.com/vi/06Qt-YMzbg8/0.jpg" width="240"></a></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
